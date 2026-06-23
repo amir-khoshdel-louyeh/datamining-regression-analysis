@@ -16,7 +16,7 @@ pipeline implemented in src/:
 Run from the project root with:
     python main.py
 
-Author: <Your Name>
+Author: Amir Khoshdel Louyeh
 Course: Data Mining
 =============================================================================
 """
