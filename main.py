@@ -6,12 +6,6 @@ Models : k-Nearest Neighbors (Baseline) vs Random Forest Regressor
 =============================================================================
 
 This is the entry point of the project. It orchestrates the modular
-pipeline implemented in src/:
-
-    src/data_prep.py        -> load_data, clean_data
-    src/feature_analysis.py -> correlation, heatmap, feature selection
-    src/models.py           -> train_knn, train_random_forest
-    src/evaluate.py         -> evaluate_model, comparison & importance plots
 
 Run from the project root with:
     python main.py
